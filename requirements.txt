@@ -1,2 +1,7 @@
 kneedeepio-plugins
 Flask
+build
+twine
+pylint
+radon
+coverage

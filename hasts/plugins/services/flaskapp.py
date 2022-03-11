@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+# Disable some rules in pylint because they're not valid for this file:
+#  - R0903 (too-few-public-methods)
+# pylint: disable=R0903
+
 ### IMPORTS ###
 import abc
 import logging
