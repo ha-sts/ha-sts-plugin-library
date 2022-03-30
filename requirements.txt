@@ -1,5 +1,5 @@
-kneedeepio-plugins
-Flask
+kneedeepio-plugins >= 0.0.7
+Flask >= 2.0.0
 build
 twine
 pylint
